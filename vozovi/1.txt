@@ -1,0 +1,7 @@
+1 4 0.5 A B
+L V V V V
+univerzalne parni 5000 A0001
+teretni 9.45 B0001 5000
+teretni 10.11 B0002 7880
+sjediste 7.88 B0003 14
+sjediste 9.99 B0004 20

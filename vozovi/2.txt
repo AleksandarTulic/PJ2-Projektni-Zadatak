@@ -1,0 +1,10 @@
+2 6 1 A B C
+V V L L V V V V
+putnicke dizelski 7800 A0002
+putnicke dizelski 7606 A0003
+p_namjene 8.12 B0005
+sjediste 10.00 B0006 22
+sjediste 9.54 B0007 18
+spavanje 14.13 B0008 28
+spavanje 14.15 B0009 20
+restoran 15.00 B0010 Raznovrsne ponude pica, ali je kuhinja naravno umanjena pod tim mislimo na smanjen repetoar mogucih obroka.
