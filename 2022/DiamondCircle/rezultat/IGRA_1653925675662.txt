@@ -1,0 +1,21 @@
+PLAYER_A - Ime Igraca
+                  Figura 1 (SuperBrzaFigura, BLUE) - predjeni put (5-27-38-49-58-67-76) - stigla do cilja ne
+                  Figura 2 (SuperBrzaFigura, BLUE) - predjeni put (5-27-38-49-58-67-76-85-74-52-41) - stigla do cilja ne
+                  Figura 3 (SuperBrzaFigura, BLUE) - predjeni put (5-27-38-49-58-67-76-85-74-52-41-32-23) - stigla do cilja ne
+                  Figura 4 (LebdecaFigura, BLUE) - predjeni put (5-16-27-38-67-76-85-74-52-41-32-23-14-15-26-37-48-57-66-75-53-42-33-24-25-36-47-56-65-54-43-34-35-46-55-44-45) - stigla do cilja da
+PLAYER_B - Ime Igraca
+                  Figura 1 (SuperBrzaFigura, YELLOW) - predjeni put (5-16) - stigla do cilja ne
+                  Figura 2 (NormalnaFigura, YELLOW) - predjeni put (5-16-27-38-49-58-67-76-85-74-63-52-41-23-14-15-26-37-48-57-66-75-64-53-42-33-24) - stigla do cilja ne
+                  Figura 3 (SuperBrzaFigura, YELLOW) - predjeni put (5-16-27-38-67-76-85-63-52-41-32-23-14-15-26-37-48-57-66-75) - stigla do cilja ne
+                  Figura 4 (LebdecaFigura, YELLOW) - predjeni put (5-16-27-38-49-58-67-76-85-74-63-52-41-32-23) - stigla do cilja ne
+PLAYER_C - Ime Igraca
+                  Figura 1 (NormalnaFigura, RED) - predjeni put (5-16) - stigla do cilja ne
+                  Figura 2 (LebdecaFigura, RED) - predjeni put (5-16-27-38-49-67-76-85-74-63-52-32-23-14-15-37-48-57-66-75-64-53-42) - stigla do cilja ne
+                  Figura 3 (NormalnaFigura, RED) - predjeni put (5-16) - stigla do cilja ne
+                  Figura 4 (LebdecaFigura, RED) - predjeni put (5-16-27-38-49-58-67-76) - stigla do cilja ne
+PLAYER_D - Ime Igraca
+                  Figura 1 (LebdecaFigura, GREEN) - predjeni put (5-27-38-49-58-67-76-63-52-41-32-23-14-15-26-37-48-57-66-75-64-53-42-33-24-25) - stigla do cilja ne
+                  Figura 2 (SuperBrzaFigura, GREEN) - predjeni put (5-16-27-38-49-58-67) - stigla do cilja ne
+                  Figura 3 (NormalnaFigura, GREEN) - predjeni put (5-16-27-38-49-58-67-76-85-74-63-52-41-32) - stigla do cilja ne
+                  Figura 4 (SuperBrzaFigura, GREEN) - predjeni put (5-16-27-38-49-58-67-76-85-74-63-52-41-32-23-14-15-26-37-48-57-66-75-64-53-42-33-24) - stigla do cilja ne
+Ukupno vrijeme trajanja igre: 55.708s

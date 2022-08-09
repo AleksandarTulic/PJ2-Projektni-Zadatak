@@ -1,0 +1,11 @@
+PLAYER_A - Ime Igraca
+                  Figura 1 (LebdecaFigura, java.awt.Color[r=255,g=255,b=0]) - predjeni put () - stigla do cilja (da/ne)
+                  Figura 2 (NormalnaFigura, java.awt.Color[r=255,g=255,b=0]) - predjeni put () - stigla do cilja (da/ne)
+                  Figura 3 (SuperBrzaFigura, java.awt.Color[r=255,g=255,b=0]) - predjeni put () - stigla do cilja (da/ne)
+                  Figura 4 (SuperBrzaFigura, java.awt.Color[r=255,g=255,b=0]) - predjeni put () - stigla do cilja (da/ne)
+PLAYER_B - Ime Igraca
+                  Figura 1 (SuperBrzaFigura, java.awt.Color[r=0,g=0,b=255]) - predjeni put () - stigla do cilja (da/ne)
+                  Figura 2 (NormalnaFigura, java.awt.Color[r=0,g=0,b=255]) - predjeni put () - stigla do cilja (da/ne)
+                  Figura 3 (NormalnaFigura, java.awt.Color[r=0,g=0,b=255]) - predjeni put () - stigla do cilja (da/ne)
+                  Figura 4 (NormalnaFigura, java.awt.Color[r=0,g=0,b=255]) - predjeni put () - stigla do cilja (da/ne)
+Ukupno vrijeme trajanja igre: 192s

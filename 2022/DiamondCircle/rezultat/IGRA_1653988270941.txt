@@ -1,0 +1,11 @@
+PLAYER_A - Ime Igraca
+                  Figura 1 (LebdecaFigura, YELLOW) - predjeni put (4-12-20-28-34-40-46-38-30-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja da
+                  Figura 2 (LebdecaFigura, YELLOW) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja da
+                  Figura 3 (LebdecaFigura, YELLOW) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja da
+                  Figura 4 (SuperBrzaFigura, YELLOW) - predjeni put (4-12-20-28-34-40) - stigla do cilja ne
+PLAYER_B - Ime Igraca
+                  Figura 1 (LebdecaFigura, BLUE) - predjeni put (4-12-20-28-34-40-38-30-22-16-10-11-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja da
+                  Figura 2 (SuperBrzaFigura, BLUE) - predjeni put (4) - stigla do cilja ne
+                  Figura 3 (NormalnaFigura, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27) - stigla do cilja ne
+                  Figura 4 (SuperBrzaFigura, BLUE) - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25) - stigla do cilja da
+Ukupno vrijeme trajanja igre: 31.062s
