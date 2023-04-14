@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"controller"},{"l":"elements.drumskiSaobracaj"},{"l":"elements.mapa"},{"l":"elements.zeljeznickiSaobracaj"},{"l":"enumarations"},{"l":"helpFunctions"},{"l":"initialization"},{"l":"myLogger"},{"l":"otherForms"}];updateSearchResults();
